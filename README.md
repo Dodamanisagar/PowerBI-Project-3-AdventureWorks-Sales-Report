@@ -21,6 +21,21 @@
 
 ![Screenshot 2023-12-16 144921](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/62cfc284-72fb-441b-924a-c454970c110e)
 
+# Sales Overview Report:-
+
+![Screenshot 2023-12-16 144730](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/2bd42748-ec3b-4f44-a836-94701023254a)
+
+# Customer Details Report:-
+
+![Screenshot 2023-12-16 144757](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/984e3da1-7b88-432a-85ea-c15004c02134)
+
+# Product Details Report:-
+
+![Screenshot 2023-12-16 144818](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/310f54d6-05c5-4daa-b493-5ec90720dfe5)
+
+
+
+
 
 
 
