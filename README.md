@@ -14,3 +14,5 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 3. Follow Below steps in Microsoft SQL Server Management Studio
    
 ![Right Click](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/a95a5fb9-f06a-47f9-b461-efccfb699e54)
+
+4. Now Run AdventureWorks Dataset Update Script.sql To updateAdventureWorksDW 
