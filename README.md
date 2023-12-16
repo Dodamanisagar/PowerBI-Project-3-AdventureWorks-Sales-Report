@@ -16,7 +16,7 @@
 
 ### 4. Now copy and paste the script from [AdventureWorks Dataset Update Script.sql](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/blob/main/AdventureWorks%20Dataset%20Update%20Script.sql) into MSSMS and execute it To update AdventureWorksDW Database to the current Date
 
-#Schema:-
+# Schema:-
 
 
 ![Screenshot 2023-12-16 144921](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/62cfc284-72fb-441b-924a-c454970c110e)
