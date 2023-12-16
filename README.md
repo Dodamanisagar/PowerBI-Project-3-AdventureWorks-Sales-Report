@@ -8,4 +8,5 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 ![dataset Files](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/9ae591a2-b678-4451-9b68-a984617b4c7d)
 
 2. Place both files in the below path based on which version of Microsoft Sql Express you installed, incase of mine I have installed MSSQL15.SQLEXPRESS:
-   C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Backup
+   
+![Screenshot 2023-12-16 125305](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/f9f612ba-4d3f-467b-b880-9fa698e4d3a4)
