@@ -1,6 +1,5 @@
 # AdventureWorks Sales Report:-
- [AdventureWorks Datasets link]
-(https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+ [AdventureWorks Datasets link](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
 ## Steps to Restore The Databases in Microsoft SQL Server Management Studio:-
 ### 1. Download Below Files from above Link
