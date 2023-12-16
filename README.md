@@ -15,4 +15,4 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
    
 ![Right Click](https://github.com/Dodamanisagar/PowerBI-Project-3-AdventureWorks-Sales-Report/assets/99800998/a95a5fb9-f06a-47f9-b461-efccfb699e54)
 
-4. Now Run AdventureWorks Dataset Update Script.sql(https://lnkd.in/gU3hq_TR) To update AdventureWorksDW Database to the current Date
+4. Now copy and paste the script from AdventureWorks Dataset Update Script.sql into MSSMS and execute it To update AdventureWorksDW Database to the current Date
